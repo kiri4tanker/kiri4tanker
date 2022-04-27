@@ -41,6 +41,7 @@
 * PHP
 * MySQL
 * Postman
+* Node.js
 * Git ([Github](https://github.com/))
 * [Wordpress](https://wordpress.com/ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
