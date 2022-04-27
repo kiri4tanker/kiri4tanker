@@ -39,6 +39,8 @@
 * CSS ([SASS/SCSS](https://sass-scss.ru/))
 * JavaScript
 * PHP
+* MySQL
+* Postman
 * Git ([Github](https://github.com/))
 * [Wordpress](https://wordpress.com/ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
