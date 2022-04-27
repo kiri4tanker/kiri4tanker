@@ -1,8 +1,11 @@
 # :man_technologist: Front-end developer
+:wave: Привет!
+
+Я Кирилл, занимаюсь разработкой сайтов, а так же создаю дизайн для них
 
 ## :telephone_receiver: Как связаться?
-Telegram: [Kiri4Tanker](https://t.me/Kiri4Tanker)
-Email: [kiri4tankerofficial@gmail.com](mailto:kiri4tankerofficial@gmail.com)
+* Telegram: [Kiri4Tanker](https://t.me/Kiri4Tanker)
+* Email: [kiri4tankerofficial@gmail.com](mailto:kiri4tankerofficial@gmail.com)
 
 ## :book: Языки
 * Русский (Основной/Main)
@@ -12,7 +15,9 @@ Email: [kiri4tankerofficial@gmail.com](mailto:kiri4tankerofficial@gmail.com)
 * HTML ([BEM](https://ru.bem.info/))
 * CSS ([SASS/SCSS](https://sass-scss.ru/))
 * JavaScript
+* PHP
 * Git ([Github](https://github.com/))
+* [Wordpress](https://wordpress.com/ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/), [Laravel-Mix](https://laravel-mix.com/)
 * [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html))
 
