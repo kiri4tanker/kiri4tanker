@@ -44,6 +44,7 @@
 * Node.js
 * Git ([Github](https://github.com/))
 * [Wordpress](https://wordpress.com/ru/)
+* [1С-Битрикс](https://www.1c-bitrix.ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
 * [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html))
 
