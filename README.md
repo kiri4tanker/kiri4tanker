@@ -40,7 +40,6 @@
 * JavaScript
 * PHP
 * MySQL
-* Postman
 * Node.js
 * Git ([Github](https://github.com/))
 * [Wordpress](https://wordpress.com/ru/)
