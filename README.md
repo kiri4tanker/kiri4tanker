@@ -46,7 +46,7 @@
 * [Wordpress](https://wordpress.com/ru/)
 * [1С-Битрикс](https://www.1c-bitrix.ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
-* [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html))
+* [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html)), [Postman](https://www.postman.com/)
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
