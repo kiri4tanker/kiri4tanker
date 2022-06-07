@@ -73,8 +73,9 @@
 ---
 
 ### :fire: Статистика
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiri4tanker&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiri4tanker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="#"><img width="417px" src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&=true&theme=onedark&hide_border=true&background=00000000" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri4tanker&exclude_repo=github-readme-stats,anuraghazra.github.io=&langs_count=5&layout=compact&theme=onedark&hide_border=true&bg_color=00000000" /></a>
+</div>
 
 ---
