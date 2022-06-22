@@ -40,7 +40,6 @@
 * JavaScript
 * PHP
 * MySQL
-* Node.js
 * Git ([Github](https://github.com/))
 * [Wordpress](https://wordpress.com/ru/), [1С-Битрикс](https://www.1c-bitrix.ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
