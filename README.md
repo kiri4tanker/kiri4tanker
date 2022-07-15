@@ -15,7 +15,7 @@
 
 ---
 
-### :man_technologist: Front-end developer
+### :man_technologist: Web-developer
 :wave: Привет!
 
 Я Кирилл, занимаюсь разработкой сайтов, а так же создаю дизайн для них
