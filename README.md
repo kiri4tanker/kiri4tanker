@@ -86,7 +86,7 @@
 
 ---
 
-### :fire: Проекты
+### :gear: Проекты
 
 <div>
   <a href="https://keentools.ru/" target="_blank"><img src="local/assets/images/logo-keintools.svg" /></a>
