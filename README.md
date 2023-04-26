@@ -89,7 +89,7 @@
 ### :fire: Проекты
 
 <div>
-  <a href="https://keentools.ru/"><img src="local/assets/images/logo-keintools.svg" /></a>
+  <a href="https://keentools.ru/" target="_blank"><img src="local/assets/images/logo-keintools.svg" /></a>
 </div>
 
 ---
