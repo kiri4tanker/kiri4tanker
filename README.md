@@ -16,6 +16,7 @@
 ---
 
 ### :man_technologist: Web-developer
+
 :wave: Привет!
 
 Я Кирилл, занимаюсь разработкой сайтов, а так же создаю дизайн для них
@@ -23,18 +24,21 @@
 ---
 
 ### :telephone_receiver: Как связаться?
+
 * Telegram: [Kiri4Tanker](https://t.me/Kiri4Tanker)
 * Email: [kiri4tankerofficial@gmail.com](mailto:kiri4tankerofficial@gmail.com)
 
 ---
 
 ### :book: Языки
+
 * Русский (Основной)
 * English
 
 ---
 
 ### :hammer_and_wrench: Технологии и знания
+
 * HTML ([BEM](https://ru.bem.info/))
 * CSS ([SASS/SCSS](https://sass-scss.ru/))
 * JavaScript
@@ -43,7 +47,8 @@
 * Git ([Github](https://github.com/))
 * [Wordpress](https://wordpress.com/ru/), [1С-Битрикс](https://www.1c-bitrix.ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
-* [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html)), [Postman](https://www.postman.com/)
+* [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe
+  Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html)), [Postman](https://www.postman.com/)
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
@@ -66,14 +71,25 @@
 ---
 
 ### :man_student: Образование
-* Информационные системы и программирование» (квалификация: разработчик веб и мультимедийных приложений), [4 курс](https://biit39.ru/osnovnyie-svedeniya/)
+
+* Информационные системы и программирование» (квалификация: разработчик веб и мультимедийных
+  приложений), [4 курс](https://biit39.ru/osnovnyie-svedeniya/)
 
 ---
 
 ### :fire: Статистика
+
 <div align="center">
   <a href="#"><img width="417px" src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&=true&theme=tokyonight&hide_border=true&background=00000000" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri4tanker&exclude_repo=github-readme-stats,anuraghazra.github.io=&langs_count=5&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /></a>
+</div>
+
+---
+
+### :fire: Проекты
+
+<div>
+  <a href="https://keentools.ru/"><img src="local/assets/images/logo-keintools.svg" /></a>
 </div>
 
 ---
