@@ -44,6 +44,7 @@
 * JavaScript
 * PHP 8+ (ООП)
 * MySQL
+* Python
 * Git ([Github](https://github.com/)) CI/CD
 * [Wordpress](https://wordpress.com/ru/), [1С-Битрикс D7](https://www.1c-bitrix.ru/)
 * [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
