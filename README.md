@@ -1,96 +1,122 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="100">
-</div>
-<div id="badges" align="center">
-  <a href="https://t.me/Kiri4Tanker">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="My Telegram">
-  </a>
-  <a href="mailto:kiri4tankerofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="My Gmail">
-  </a>
-</div>
-<div id="stats" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiri4tanker&style=flat-square&color=blue" alt="stats">
-</div>  
-
----
-
-### :man_technologist: Web-developer
-
-:wave: Привет!
-
-Я Кирилл, занимаюсь разработкой сайтов, а так же создаю дизайн для них
-
----
-
-### :telephone_receiver: Как связаться?
-
-* Telegram: [Kiri4Tanker](https://t.me/Kiri4Tanker)
-* Email: [kiri4tankerofficial@gmail.com](mailto:kiri4tankerofficial@gmail.com)
-
----
-
-### :book: Языки
-
-* Русский (Основной)
-* English
-
----
-
-### :hammer_and_wrench: Технологии и знания
-
-* HTML ([BEM](https://ru.bem.info/))
-* CSS ([SASS/SCSS](https://sass-scss.ru/))
-* JavaScript
-* PHP 8+ (ООП)
-* MySQL
-* Python
-* Git ([Github](https://github.com/)) CI/CD
-* [Wordpress](https://wordpress.com/ru/), [1С-Битрикс D7](https://www.1c-bitrix.ru/)
-* [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/)
-* [Figma](https://www.figma.com/), Adobe Photoshop([Ps](https://www.adobe.com/ru/products/photoshop.html)), Adobe
-  Illustrator([Ai](https://www.adobe.com/ru/products/illustrator.html)), [Postman](https://www.postman.com/)
-
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
-  <img src="https://util.1c-bitrix.ru/upload/bx24vendor/ff4/app.eshop.icon.png" title="Bitrix" alt="Bitrix" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="NodeJS" width="40" height="40">&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="WebPack"  alt="WebPack" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp"  alt="Gulp" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Ps" alt="Ps" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Ai" alt="Ai" width="40" height="40">&nbsp;
-</p>
-
----
-
-### :man_student: Образование
-
-* Информационные системы и программирование (квалификация: разработчик веб и мультимедийных
-  приложений)
-
----
-
-### :fire: Статистика
-
-<div align="center">
-  <a href="#"><img width="417px" src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&=true&theme=tokyonight&hide_border=true&background=00000000" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri4tanker&exclude_repo=github-readme-stats,anuraghazra.github.io=&langs_count=5&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /></a>
-</div>
-
----
-
-### :gear: Проекты
+<h1 style="display: flex; justify-content: center; color: #FFFFFF;">👋 Приветствую на моем GitHub профиле!</h1>
 
 <div>
-  <a href="https://keentools.ru/" target="_blank"><img src="local/assets/images/logo-keintools.svg" /></a>
+  <img src="assets/images/waves.svg" alt="Wave Animation" style="width: 100%; margin-top: 1rem">
 </div>
 
----
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</div>
+
+<h2 style="display: flex; justify-content: center; color: #FFFFFF;">🚀 CEO & Fullstack Developer</h2>
+
+<div style="display: flex; justify-content: center; color: #FFFFFF; margin-top: 1rem">
+  <em>Меня зовут — <strong>Кирилл</strong>, специализируюсь на создании веб-приложений полного цикла, управлении проектами и внедрении инноваций. Моя цель — превратить идеи в реальность с помощью кода.</em>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 1rem; gap: 1rem;">
+  <a href="https://github.com/kiri4tanker">
+    <img src="https://img.shields.io/github/followers/kiri4tanker?style=for-the-badge&color=8a53ff&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8" alt="GitHub Followers">
+  </a>
+  <a href="https://t.me/kiri4tanker">
+    <img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=8a53ff" alt="Telegram">
+  </a>
+  <a href="https://github.com/kiri4tanker">
+    <img src="https://komarev.com/ghpvc/?username=kiri4tanker&style=for-the-badge&color=8a53ff" alt="Profile views"/>
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</div>
+
+### 🔥 **Github Stats**
+
+<div style="display: flex; justify-content: space-between; gap: 1rem; height: 100%">
+  <div style="width: 60%; display: flex; flex-direction: column; justify-content: space-between">
+    <picture style="width: 100%">
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" 
+        media="(prefers-color-scheme: dark)">
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=kiri4tanker&show_icons=true&theme=light&hide_border=true" 
+        media="(prefers-color-scheme: light)">
+      <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=kiri4tanker&show_icons=true" alt="GitHub Stats">
+    </picture>
+    <picture style="width: 100%">
+      <source 
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" 
+        media="(prefers-color-scheme: dark)">
+      <source 
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&theme=light&hide_border=true" 
+        media="(prefers-color-scheme: light)">
+      <img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker" alt="GitHub Streak">
+    </picture>
+  </div>
+  <div style="width: 40%">
+    <img src="assets/images/skull.png" alt="Personal Image">
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</div>
+
+### 🏢 **Организации**
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <a href="https://improjects.ru">
+    <img src="assets/images/improjects.svg" alt="IMProjects" style="width: 100px; height: 60px">
+  </a>
+  <a href="https://yogurtstudio.ru">
+    <img src="assets/images/yogurtstudio.svg" alt="YogurtStudio" style="width: 100px; height: 60px">
+  </a>
+  <a href="https://fastonline.ru">
+    <img src="assets/images/fastonline.svg" alt="FastOnline" style="width: 100px; height: 60px">
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</div>
+
+### 🛠️ **Технологии и инструменты**
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <img src="assets/images/html5.svg" alt="HTML5" width="40" height="40"/>
+  <img src="assets/images/css3.svg" alt="CSS3" width="40" height="40"/>
+  <img src="assets/images/scss.svg" alt="Scss" width="40" height="40"/>
+  <img src="assets/images/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="assets/images/webpack.svg" alt="Webpack" width="40" height="40"/>
+  <img src="assets/images/gulp.svg" alt="Gulp" width="40" height="40"/>
+  <img src="assets/images/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="assets/images/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="assets/images/bitrix.svg" alt="Bitrix" width="40" height="40"/>
+  <img src="assets/images/wordpress.svg" alt="Wordpress" width="40" height="40"/>
+  <img src="assets/images/php.svg" alt="PHP" width="40" height="40"/>
+  <img src="assets/images/python.svg" alt="Python" width="40" height="40"/>
+  <img src="assets/images/figma.svg" alt="Figma" width="40" height="40"/>
+  <img src="assets/images/postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="assets/images/photoshop.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="assets/images/illustrator.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="assets/images/git.svg" alt="Git" width="40" height="40"/>
+</div>
+
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</div>
+
+<h2 style="display: flex; justify-content: center; color: #FFFFFF;">📫 Контакты</h2>
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://t.me/kiri4tanker" style="display: flex; align-items: center; border-radius: 50%; border: 2px solid #8a53ff;">
+    <img src="assets/images/telegram.svg" alt="Telegram" style="width: 40px; height: 40px"/>
+  </a>
+  <a href="mailto:kiri4tankerofficial@gmail.com" style="display: flex; align-items: center; border-radius: 50%; border: 2px solid #8a53ff;">
+    <img src="assets/images/mail.svg" alt="Email" style="width: 40px; height: 40px"/>
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; color: #FFFFFF; margin-top: 1rem;">
+  Спасибо, что заглянули! Давайте творить вместе! 🎉
+</div>
