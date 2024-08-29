@@ -44,10 +44,10 @@
 ### 🏢 **Организации**
 
 <p align="center">
-  <a href="https://improjects.ru">
+  <a href="https://improjects.ru" style="margin-right: 1rem">
     <img src="assets/images/improjects.svg" alt="IMProjects" width="100" height="60">
   </a>
-  <a href="https://yogurtstudio.ru">
+  <a href="https://yogurtstudio.ru" style="margin-right: 1rem">
     <img src="assets/images/yogurtstudio.svg" alt="YogurtStudio" width="100" height="60">
   </a>
   <a href="https://fastonline.ru">
