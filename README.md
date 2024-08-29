@@ -18,11 +18,11 @@
   <a href="https://github.com/kiri4tanker">
     <img src="https://img.shields.io/github/followers/kiri4tanker?style=for-the-badge&color=8a53ff&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8" alt="GitHub Followers">
   </a>
-  <a href="https://t.me/kiri4tanker">
-    <img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=8a53ff" alt="Telegram">
-  </a>
   <a href="https://github.com/kiri4tanker">
     <img src="https://komarev.com/ghpvc/?username=kiri4tanker&style=for-the-badge&color=8a53ff" alt="Profile views"/>
+  </a>
+  <a href="https://t.me/kiri4tanker">
+    <img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=8a53ff" alt="Telegram">
   </a>
 </p>
 
@@ -31,11 +31,10 @@
 </p>
 
 ### 🔥 **Github Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" alt="GitHub Stats" width="60%" style="margin-bottom: 1rem;">
-  <img src="assets/images/skull.png" alt="Personal Image" width="40%" style="margin-bottom: 1rem;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="100%">
+<img align="right" src="assets/images/skull.png" alt="Personal Image" width="34%" style="margin-bottom: 1rem;" >
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" alt="GitHub Stats" width="60%" style="margin-bottom: 1rem;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="60%">
 </p>
 
 <p align="center" style="margin-top: 1rem;">
