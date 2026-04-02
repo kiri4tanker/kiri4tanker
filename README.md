@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RU-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA-2563EB?style=for-the-badge" alt="RU"/>
-  <img src="https://img.shields.io/badge/EN-Open%20for%20global%20collaboration-059669?style=for-the-badge" alt="EN"/>
+  <img src="https://img.shields.io/badge/Languages-1F2937?style=for-the-badge" alt="Languages"/>
+  <img src="https://img.shields.io/badge/RU-Native-2563EB?style=for-the-badge" alt="RU Native"/>
+  <img src="https://img.shields.io/badge/EN-B1-059669?style=for-the-badge" alt="EN B1"/>
 </p>
 
 <p align="center" style="margin-top: 0.5rem;">
