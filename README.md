@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/EN-Open%20for%20global%20collaboration-059669?style=for-the-badge" alt="EN"/>
 </p>
 
-### 🤝 **Open To Work / Открыт к сотрудничеству**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20%26%20Integrations-0EA5E9?style=for-the-badge" alt="Open to backend and integrations"/>
-</p>
-
 <p align="center" style="margin-top: 0.5rem;">
   <a href="https://t.me/kiri4tanker">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram">
@@ -181,22 +175,6 @@
 
 <p align="center" style="color: #FFFFFF;">
   Open-source набор для генерации Swagger/OpenAPI документации в проектах на Bitrix.
-</p>
-
-<p align="center">
-  <a href="https://github.com/kiri4tanker/kiri4tanker">
-    <img src="https://img.shields.io/badge/kiri4tanker%20profile%20repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="kiri4tanker profile repo"/>
-  </a>
-  <a href="https://github.com/kiri4tanker/kiri4tanker/stargazers">
-    <img src="https://img.shields.io/github/stars/kiri4tanker/kiri4tanker?style=for-the-badge&label=Stars&color=8a53ff" alt="profile repo stars"/>
-  </a>
-  <a href="https://github.com/kiri4tanker/kiri4tanker/commits/main">
-    <img src="https://img.shields.io/github/last-commit/kiri4tanker/kiri4tanker?style=for-the-badge&label=Last%20update" alt="profile repo last update"/>
-  </a>
-</p>
-
-<p align="center" style="color: #FFFFFF;">
-  Репозиторий профиля с текущими обновлениями, структурой стека и публичными ссылками.
 </p>
 
 <p align="center" style="margin-top: 1rem;">
