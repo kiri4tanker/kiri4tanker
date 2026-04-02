@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=kiri4tanker&style=for-the-badge&color=8a53ff" alt="Profile views"/>
   </a>
   <a href="https://t.me/kiri4tanker">
-    <img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=8a53ff" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram">
   </a>
 </p>
 
@@ -30,29 +30,11 @@
   <img src="assets/images/divider.svg" alt="divider"/>
 </p>
 
-### 🔥 **Github Stats**
+### 🔥 **GitHub Stats**
 <img align="right" src="assets/images/skull.png" alt="Personal Image" width="34%" style="margin-bottom: 1rem;" >
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" alt="GitHub Stats" width="60%" style="margin-bottom: 1rem;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="60%">
-</p>
-
-<p align="center" style="margin-top: 1rem;">
-  <img src="assets/images/divider.svg" alt="divider"/>
-</p>
-
-### 🏢 **Организации**
-
-<p align="center">
-  <a href="https://improjects.ru" style="margin-right: 1rem">
-    <img src="assets/images/improjects.svg" alt="IMProjects" width="100" height="60">
-  </a>
-  <a href="https://yogurtstudio.ru" style="margin-right: 1rem">
-    <img src="assets/images/yogurtstudio.svg" alt="YogurtStudio" width="100" height="60">
-  </a>
-  <a href="https://fastonline.ru">
-    <img src="assets/images/fastonline.svg" alt="FastOnline" width="100" height="60">
-  </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" alt="GitHub Stats" width="60%" style="margin-bottom: 1rem;">
+    <img src="https://streak-stats.demolab.com?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="60%">
 </p>
 
 <p align="center" style="margin-top: 1rem;">
