@@ -8,109 +8,128 @@
   <img src="assets/images/divider.svg" alt="divider"/>
 </p>
 
-<h2 align="center" style="color: #FFFFFF;">🚀 CEO & Fullstack Developer</h2>
+<h2 align="center" style="color: #FFFFFF;">🚀 Backend & Integration Developer</h2>
 
 <p align="center" style="color: #FFFFFF; margin-top: 1rem;">
-  <em>Меня зовут — <strong>Кирилл</strong>, специализируюсь на создании веб-приложений полного цикла, управлении проектами и внедрении инноваций. Моя цель — превратить идеи в реальность с помощью кода.</em>
+  <em>Меня зовут — <strong>Кирилл</strong>. Разрабатываю backend-решения, API и интеграции (Bitrix/PHP), помогаю превращать бизнес-задачи в стабильные сервисы.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RU-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA-2563EB?style=for-the-badge" alt="RU"/>
+  <img src="https://img.shields.io/badge/EN-Open%20for%20global%20collaboration-059669?style=for-the-badge" alt="EN"/>
+</p>
+
+### 🤝 **Open To Work / Открыт к сотрудничеству**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20%26%20Integrations-0EA5E9?style=for-the-badge" alt="Open to backend and integrations"/>
+</p>
+
+<p align="center" style="margin-top: 0.5rem;">
+  <a href="https://t.me/kiri4tanker">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram">
+  </a>
+  <a href="mailto:kiri4tankerofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kiri4tankerofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center" style="margin-top: 1rem;">
   <a href="https://github.com/kiri4tanker">
     <img src="https://img.shields.io/github/followers/kiri4tanker?style=for-the-badge&color=8a53ff&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/kiri4tanker?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/kiri4tanker?style=for-the-badge&color=8a53ff&label=Stars" alt="GitHub Stars"/>
-  </a>
   <a href="https://github.com/kiri4tanker">
     <img src="https://komarev.com/ghpvc/?username=kiri4tanker&style=for-the-badge&color=8a53ff" alt="Profile views"/>
   </a>
-  <a href="https://t.me/kiri4tanker">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram">
-  </a>
 </p>
 
 <p align="center" style="margin-top: 1rem;">
   <img src="assets/images/divider.svg" alt="divider"/>
 </p>
 
-### 🔥 **GitHub Stats**
-<img align="right" src="assets/images/skull.png" alt="Personal Image" width="34%" style="margin-bottom: 1rem;" >
-<p align="left">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" alt="GitHub Stats" width="60%" style="margin-bottom: 1rem;">
-    <img src="https://streak-stats.demolab.com?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="60%">
-</p>
+### 🛠️ **Tech Stack / Технологии**
 
-<p align="center" style="margin-top: 1rem;">
-  <img src="assets/images/divider.svg" alt="divider"/>
-</p>
-
-### 🛠️ **Технологии и инструменты**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_%26_CMS-1F2937?style=for-the-badge&logo=buffer&logoColor=white" alt="Backend & CMS"/>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Bitrix-008FC7?style=for-the-badge&logoColor=white" alt="Bitrix"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHPUnit-6C2EB9?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-1F2937?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Databases-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Databases"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API_%26_Integrations-1F2937?style=for-the-badge&logo=fastapi&logoColor=white" alt="API & Integrations"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/1C-FFD100?style=for-the-badge&logoColor=000000" alt="1C"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps_%26_Infrastructure-1F2937?style=for-the-badge&logo=dependabot&logoColor=white" alt="DevOps & Infrastructure"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools_%26_Design-1F2937?style=for-the-badge&logo=googlekeep&logoColor=white" alt="Tools & Design"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator"/>
-</p>
+<details>
+  <summary><strong>Full Stack / Полный стек</strong></summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Backend_%26_CMS-1F2937?style=for-the-badge&logo=buffer&logoColor=white" alt="Backend & CMS"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Bitrix-008FC7?style=for-the-badge&logoColor=white" alt="Bitrix"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PHPUnit-6C2EB9?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Frontend-1F2937?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>
+    <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Databases-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Databases"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/API_%26_Integrations-1F2937?style=for-the-badge&logo=fastapi&logoColor=white" alt="API & Integrations"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" alt="Swagger"/>
+    <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/1C-FFD100?style=for-the-badge&logoColor=000000" alt="1C"/>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/DevOps_%26_Infrastructure-1F2937?style=for-the-badge&logo=dependabot&logoColor=white" alt="DevOps & Infrastructure"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Tools_%26_Design-1F2937?style=for-the-badge&logo=googlekeep&logoColor=white" alt="Tools & Design"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
+    <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator"/>
+  </p>
+</details>
 
 <p align="center" style="margin-top: 1rem;">
   <img src="assets/images/divider.svg" alt="divider"/>
@@ -126,6 +145,12 @@
 
 <p align="center">
   <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
+    <img src="https://img.shields.io/badge/composer%20require-kiri4tanker%2Fk4t.docs-885630?style=for-the-badge&logo=composer&logoColor=white" alt="composer require kiri4tanker/k4t.docs"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
     <img src="https://img.shields.io/badge/kiri4tanker%2Fk4t.docs-Swagger%20for%20Bitrix-6BA539?style=for-the-badge&logo=swagger&logoColor=white" alt="kiri4tanker/k4t.docs"/>
   </a>
   <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
@@ -134,6 +159,55 @@
   <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
     <img src="https://img.shields.io/packagist/dt/kiri4tanker/k4t.docs?style=for-the-badge" alt="Packagist Downloads"/>
   </a>
+</p>
+
+<p align="center" style="margin-top: 1rem;">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</p>
+
+### ⭐ **Featured Projects**
+
+<p align="center">
+  <a href="https://github.com/kiri4tanker/bitrix-swagger-docs">
+    <img src="https://img.shields.io/badge/bitrix--swagger--docs-181717?style=for-the-badge&logo=github&logoColor=white" alt="bitrix-swagger-docs"/>
+  </a>
+  <a href="https://github.com/kiri4tanker/bitrix-swagger-docs/stargazers">
+    <img src="https://img.shields.io/github/stars/kiri4tanker/bitrix-swagger-docs?style=for-the-badge&label=Stars&color=8a53ff" alt="bitrix-swagger-docs stars"/>
+  </a>
+  <a href="https://github.com/kiri4tanker/bitrix-swagger-docs/commits/main">
+    <img src="https://img.shields.io/github/last-commit/kiri4tanker/bitrix-swagger-docs?style=for-the-badge&label=Last%20update" alt="bitrix-swagger-docs last update"/>
+  </a>
+</p>
+
+<p align="center" style="color: #FFFFFF;">
+  Open-source набор для генерации Swagger/OpenAPI документации в проектах на Bitrix.
+</p>
+
+<p align="center">
+  <a href="https://github.com/kiri4tanker/kiri4tanker">
+    <img src="https://img.shields.io/badge/kiri4tanker%20profile%20repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="kiri4tanker profile repo"/>
+  </a>
+  <a href="https://github.com/kiri4tanker/kiri4tanker/stargazers">
+    <img src="https://img.shields.io/github/stars/kiri4tanker/kiri4tanker?style=for-the-badge&label=Stars&color=8a53ff" alt="profile repo stars"/>
+  </a>
+  <a href="https://github.com/kiri4tanker/kiri4tanker/commits/main">
+    <img src="https://img.shields.io/github/last-commit/kiri4tanker/kiri4tanker?style=for-the-badge&label=Last%20update" alt="profile repo last update"/>
+  </a>
+</p>
+
+<p align="center" style="color: #FFFFFF;">
+  Репозиторий профиля с текущими обновлениями, структурой стека и публичными ссылками.
+</p>
+
+<p align="center" style="margin-top: 1rem;">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</p>
+
+### 🔥 **GitHub Stats**
+<img align="right" src="assets/images/skull.png" alt="Personal Image" width="34%" style="margin-bottom: 1rem;" >
+<p align="left">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kiri4tanker&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&title_color=8a53ff&bg_color=000000" alt="GitHub Stats" width="60%" style="margin-bottom: 1rem;">
+    <img src="https://streak-stats.demolab.com?user=kiri4tanker&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=8a53ff&fire=8a53ff&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="60%">
 </p>
 
 <p align="center" style="margin-top: 1rem;">
