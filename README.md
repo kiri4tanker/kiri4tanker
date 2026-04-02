@@ -18,6 +18,9 @@
   <a href="https://github.com/kiri4tanker">
     <img src="https://img.shields.io/github/followers/kiri4tanker?style=for-the-badge&color=8a53ff&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8" alt="GitHub Followers">
   </a>
+  <a href="https://github.com/kiri4tanker?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/kiri4tanker?style=for-the-badge&color=8a53ff&label=Stars" alt="GitHub Stars"/>
+  </a>
   <a href="https://github.com/kiri4tanker">
     <img src="https://komarev.com/ghpvc/?username=kiri4tanker&style=for-the-badge&color=8a53ff" alt="Profile views"/>
   </a>
