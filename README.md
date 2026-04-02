@@ -113,6 +113,30 @@
   <img src="assets/images/divider.svg" alt="divider"/>
 </p>
 
+### 📦 **Packagist**
+
+<p align="center">
+  <a href="https://packagist.org/users/kiri4tanker/">
+    <img src="https://img.shields.io/badge/Packagist_Profile-kiri4tanker-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
+    <img src="https://img.shields.io/badge/kiri4tanker%2Fk4t.docs-Swagger%20for%20Bitrix-6BA539?style=for-the-badge&logo=swagger&logoColor=white" alt="kiri4tanker/k4t.docs"/>
+  </a>
+  <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
+    <img src="https://img.shields.io/packagist/v/kiri4tanker/k4t.docs?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist Version"/>
+  </a>
+  <a href="https://packagist.org/packages/kiri4tanker/k4t.docs">
+    <img src="https://img.shields.io/packagist/dt/kiri4tanker/k4t.docs?style=for-the-badge" alt="Packagist Downloads"/>
+  </a>
+</p>
+
+<p align="center" style="margin-top: 1rem;">
+  <img src="assets/images/divider.svg" alt="divider"/>
+</p>
+
 <p align="center" style="color: #FFFFFF; margin-top: 1rem;">
   Спасибо, что заглянули! Давайте творить вместе! 🎉
 </p>
