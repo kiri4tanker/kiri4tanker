@@ -44,23 +44,69 @@
 ### 🛠️ **Технологии и инструменты**
 
 <p align="center">
-  <img src="assets/images/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="assets/images/css3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="assets/images/scss.svg" alt="Scss" width="40" height="40"/>
-  <img src="assets/images/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="assets/images/webpack.svg" alt="Webpack" width="40" height="40"/>
-  <img src="assets/images/gulp.svg" alt="Gulp" width="40" height="40"/>
-  <img src="assets/images/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="assets/images/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="assets/images/bitrix.svg" alt="Bitrix" width="40" height="40"/>
-  <img src="assets/images/wordpress.svg" alt="Wordpress" width="40" height="40"/>
-  <img src="assets/images/php.svg" alt="PHP" width="40" height="40"/>
-  <img src="assets/images/python.svg" alt="Python" width="40" height="40"/>
-  <img src="assets/images/figma.svg" alt="Figma" width="40" height="40"/>
-  <img src="assets/images/postman.svg" alt="Postman" width="40" height="40"/>
-  <img src="assets/images/photoshop.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="assets/images/illustrator.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="assets/images/git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Backend_%26_CMS-1F2937?style=for-the-badge&logo=buffer&logoColor=white" alt="Backend & CMS"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitrix-008FC7?style=for-the-badge&logoColor=white" alt="Bitrix"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHPUnit-6C2EB9?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-1F2937?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databases-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Databases"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API_%26_Integrations-1F2937?style=for-the-badge&logo=fastapi&logoColor=white" alt="API & Integrations"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/1C-FFD100?style=for-the-badge&logoColor=000000" alt="1C"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps_%26_Infrastructure-1F2937?style=for-the-badge&logo=dependabot&logoColor=white" alt="DevOps & Infrastructure"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools_%26_Design-1F2937?style=for-the-badge&logo=googlekeep&logoColor=white" alt="Tools & Design"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator"/>
 </p>
 
 <p align="center" style="margin-top: 1rem;">
